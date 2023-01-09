@@ -8,5 +8,5 @@ spec:
   scaleTargetRef:
     apiVersion: apps/v1
     kind: Deployment
-    name: k8s-autoscaler
+    name: nginx
   targetCPUUtilizationPercentage: 50
