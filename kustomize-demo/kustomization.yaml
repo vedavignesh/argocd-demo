@@ -6,3 +6,4 @@ namePrefix: kustomize-
 resources:
 - nginx-deployment.yaml
 - nginx-svc.yaml
+- hpa.yaml
